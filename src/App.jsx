@@ -15,7 +15,7 @@ const App = () => {
 
   const validations = () => {
     if (
-      userData.username[0] === "" ||
+      userData.username[0] === " " ||
       userData.username.length <= 3 ||
       userData.password.length < 6
     ) {
