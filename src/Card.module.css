@@ -1,0 +1,18 @@
+.Wrapper {
+    position: absolute;
+    background:  #e7eaf6;
+    height: 50vh;
+    color: #113f67;
+    flex-direction: column;
+    width: 50%;
+    overflow: hidden;
+    top: 25%;
+    left: 25%;
+    border: #a2a8d3 2px solid;
+    border-radius: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+}
+
